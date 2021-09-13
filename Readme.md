@@ -22,4 +22,4 @@ FaceMesh is mostly used in AR Technology. For instance, different face editing a
 All the files have been commented for your ease. Furthermore you may also add further comments if you may.
 
 ## Contact Info: 
-📧  : chhxnshah@gmail.com
+Feel free to contact me at : chhxnshah@gmail.com
